@@ -2,9 +2,9 @@
 
 ```css
 @font-face {
-  font-family: 'sans';
+  font-family: 'bnazanin';
   font-style: normal;
   font-weight: normal;
-  src: url("http://bayanbox.ir/download/7254718425283737932/IRANSans.woff") format("woff");
+  src: url("https://github.com/peymanx/persian-fonts/blob/main/B_Nazanin/BNazanin.woff?raw=true") format("woff");
 }
 ```
